@@ -5,6 +5,3 @@ A simulator for memory allocation algorithms using python (First fit - Best fit 
 1. Data is displayed in a tabular style,
 2. How much of the block is used and how much is wasted, and
 3. The processes’ sizes that will have to wait if no available block is present
-
-### Link to github
-https://github.com/LailaElHattab/Memory-Allocation-Simulator
